@@ -5,9 +5,7 @@ import MyComponent1 from './comp1';
 function App() {
   return (
     <div className="App">
-      <div>hi main1</div>
       <div>hi main</div>
-      <div>hello master1</div>
        <div>hello master</div>
        <MyComponent/>
        <MyComponent1/>
