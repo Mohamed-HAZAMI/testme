@@ -8,6 +8,7 @@ function App() {
        <div>hello master</div>
        <MyComponent/>
        <MyComponent1/>
+       <div>welcome master</div>
     </div>
   );
 }
