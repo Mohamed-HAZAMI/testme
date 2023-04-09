@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>hi main</div>
+      <div>hello master1</div>
        <div>hello master</div>
        <MyComponent/>
        <MyComponent1/>
